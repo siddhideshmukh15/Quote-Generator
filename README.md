@@ -36,4 +36,4 @@ that displays random motivational quotes to inspire users.
 
 👩‍💻 Author
 
-**Siddhi Deshmukh**
+Siddhi Deshmukh
